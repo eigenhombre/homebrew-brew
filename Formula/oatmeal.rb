@@ -14,5 +14,6 @@ class Oatmeal < Formula
   end
 
   test do
+    system "echo test", prefix
   end
 end
