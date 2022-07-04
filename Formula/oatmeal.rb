@@ -1,4 +1,4 @@
-class Oatmeal2 < Formula
+class Oatmeal < Formula
   desc "Common Lisp template"
   homepage "https://github.com/eigenhombre/oatmeal"
   license "EPL-2.0"
