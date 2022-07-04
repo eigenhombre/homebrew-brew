@@ -10,7 +10,7 @@ class Oatmeal < Formula
 
   def install
     # system "./brew_install.sh", prefix
-    puts "'install'ing..."
+    system "echo OK", prefix
   end
 
   test do
