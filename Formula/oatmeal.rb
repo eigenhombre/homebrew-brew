@@ -9,11 +9,9 @@ class Oatmeal < Formula
   uses_from_macos "ruby" => :build
 
   def install
-    # system "./brew_install.sh", prefix
-    system "echo OK", prefix
+    system "scripts/brew_install.sh", prefix
   end
 
-  test do
-    system "echo test", prefix
-  end
+  # test do
+  # end
 end
