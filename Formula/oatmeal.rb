@@ -8,6 +8,11 @@ class Oatmeal < Formula
 
   uses_from_macos "ruby" => :build
 
+  depends_on "sbcl"
+  depends_on "openjdk@11"
+  depends_on "clojure"
+  depends_on "leiningen"
+
   def install
     system "scripts/brew_install.sh", prefix
   end
