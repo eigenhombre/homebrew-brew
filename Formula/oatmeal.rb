@@ -3,7 +3,7 @@ class Oatmeal < Formula
   homepage "https://github.com/eigenhombre/oatmeal"
   license "EPL-2.0"
   version "0.0.24"
-  url "https://github.com/eigenhombre/oatmeal/archive/refs/tags/$version.tar.gz"
+  url "https://github.com/eigenhombre/oatmeal/archive/refs/tags/${version}.tar.gz"
   sha256 "4f1d5ec44dff0e21339259ac7c3e45c9b5edbb1c271882fb711584c44b83e2b1"
 
   uses_from_macos "ruby" => :build
