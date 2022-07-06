@@ -4,7 +4,8 @@ class Oatmeal < Formula
   license "EPL-2.0"
   url "https://github.com/eigenhombre/oatmeal/archive/refs/tags/v0.0.8.tar.gz"
   # url "https://github.com/eigenhombre/oatmeal/releases/download/v0.0.7/oatmeal-release.tgz"
-  sha256 "2db825de454f9929467a7efaaf3ef0b8cac48553fd67e5278562f0df7f06816d"
+  sha256 "71773df63cfeaea5af83fcea357b6433278a774bca6953a8a4162d419dd035c1"
+  # 2db825de454f9929467a7efaaf3ef0b8cac48553fd67e5278562f0df7f06816d"
   # version "0.0.7"
   version "0.0.8"
 
