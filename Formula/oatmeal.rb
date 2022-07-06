@@ -2,9 +2,9 @@ class Oatmeal < Formula
   desc "Common Lisp template"
   homepage "https://github.com/eigenhombre/oatmeal"
   license "EPL-2.0"
-  url "https://github.com/eigenhombre/oatmeal/archive/refs/tags/v0.0.18.tar.gz"
-  sha256 "a9cb358aefafca81318f1986cb5779dd3c63b3195303b7e5271376029afc2a72"
-  version "0.0.18"
+  url "https://github.com/eigenhombre/oatmeal/archive/refs/tags/v0.0.19.tar.gz"
+  sha256 "caddc23cea98aecda35820f6092dd8a7d89b05f5041e3dd13e9b4c53024ba4e5"
+  version "0.0.19"
 
   uses_from_macos "ruby" => :build
 
